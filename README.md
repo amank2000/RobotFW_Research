@@ -1,7 +1,7 @@
 # RobotFW_Research
 
-Base1.robot contained in Tests Folder. 
---- Run it using robot -d results tests/Base1.robot
+Base1 updated.robot contained in Tests Folder. 
+--- Run it using robot -d results tests/Base1 updated.robot
 
 --- Used for searching keywords in the search bar of Researchgate/publications
 
