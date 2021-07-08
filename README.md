@@ -13,6 +13,10 @@ Link.robot contained in Tests Folder
 
 --- Used for capturing links of the publications from a particular web page and displaying (console) it in log file of the script running.
 
+Text.robot contained in Tests Folder
+
+--- Used for scraping text from a particular attribute/division on a web page and printing it out using console to log.
+
 Link1 folder stores the screenshots for the same.
 
 output.xml + log.html + report.html --- All three result files stored in Results folder.
